@@ -1,4 +1,4 @@
 # sritosh-demo
 First GIT Repository!!
 <br>
-Author - Sritosh Rath
+Author - Sritosh Rath(vit)
